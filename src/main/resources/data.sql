@@ -1,0 +1,1 @@
+INSERT INTO matchs (initial_plays, remain_plays, winner) values (10,0, null)
